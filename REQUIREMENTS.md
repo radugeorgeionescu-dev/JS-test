@@ -6,7 +6,7 @@ Nothing to install - no packages. Just Node, VS Code, and access to the GitLab r
 
 ## 1. Set up your branch
 
-1. In GitLab, click **Code → Open with → Visual Studio Code (HTTPS)**, then pick a local folder - VS Code will clone the repo and open it.
+1. In this rpeo, click **Code → Open with → Visual Studio Code (HTTPS)**, then pick a local folder - VS Code will clone the repo and open it.
 2. In VS Code's status bar, click `main` → **Create new branch...** → name it `submission/firstname-lastname` (your real name, lowercase and hyphenated).
 3. Open the terminal (**Ctrl+`** / **Cmd+`**) and run `node --version` - Node 18+ required.
 
